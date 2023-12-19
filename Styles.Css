@@ -1,0 +1,36 @@
+
+body{
+    
+    background-color: black;
+    text-align: center;
+    
+}
+
+h1{
+    color: aliceblue;
+    
+}
+
+ul{
+    color: aliceblue;
+}
+
+h2{
+    text-align: left;
+
+}
+
+p{
+    background-color: #41B8D5;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.white-text{
+    color: aliceblue;
+}
+.Image-Editing{
+   border-radius: 80px;
+}
+
